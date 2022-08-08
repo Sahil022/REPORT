@@ -6,9 +6,6 @@ When we make a small program we simply compile and execute but in case of large 
 
 If one program is compiled and it takes 10 minutes then we need not to compile every program again and again (to waste 10 mins. again) because it will compile only the file that is changed so it is better than a shell script.
 
-“By the end of presentation, you all will be knowing how to make a Makefile and
-
-unlike script it has a definite structure”, said Amrit.
 
 Makefile have a definite structure that we have to follow.
 Structure
