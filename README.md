@@ -1,5 +1,5 @@
-# REPORT
-## Make Command
+# REPORT on Make Command
+
 Why do we need make?
 
 When we make a small program we simply compile and execute but in case of large files we are mainly focussed on compilation and not debugging, make makes it easy to compile and we need not to focus much on compilation.
